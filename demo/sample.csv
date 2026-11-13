@@ -1,0 +1,5 @@
+name,email,city
+Alice,alice@example.invalid,北京
+Bob,,上海
+Carol, ,深圳
+Dave,dave@example.invalid
